@@ -3,9 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "WebsiteName": {
-      "value": "
-javawebapp11
-"
+      "value": "javawebapp11"
     },
     "PUL_ServerName": {
       "value": "javaprojectserver.database.windows.net"
@@ -29,8 +27,7 @@ javawebapp11
       "value": "Basic"
     },
     "PUL_HostingPlanName": {
-      "value": "ASP-javaproject1group-aaca
-"
+      "value": "ASP-javaproject1group-aaca"
     },
     "PUL_HostingPlanSKU": {
       "value": "Standard"
