@@ -3,10 +3,12 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "WebsiteName": {
-      "value": null
+      "value": "
+javawebapp11
+"
     },
     "PUL_ServerName": {
-      "value": null
+      "value": "javaprojectserver.database.windows.net"
     },
     "PUL_DBLogin": {
       "value": "AdminUser"
@@ -27,7 +29,8 @@
       "value": "Basic"
     },
     "PUL_HostingPlanName": {
-      "value": null
+      "value": "ASP-javaproject1group-aaca
+"
     },
     "PUL_HostingPlanSKU": {
       "value": "Standard"
